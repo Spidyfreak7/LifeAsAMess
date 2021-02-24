@@ -1,0 +1,26 @@
+<html>
+<style>
+  img{
+    border-radius: 50px;
+  }
+  body{
+    background: radial-gradient(circle at 50%, white, rgb(100, 255, 100));
+  }
+  div{
+    font-size: 50px;
+    text-align: center;
+  }
+  #img-caption{
+    font-size: 20px;
+  }
+</style>
+  <body>
+  <div id="main">
+    <div id="title"> Life.As.A.Mess</div>
+    <div id="img-div">
+      <img 	id="img" src="D:/Coding/IMG_4722.PNG" alt="M I M S Yes I am" height="500px">
+      <p id="img-caption"> When I married my husband I recieved the name Mims. During the 7-8 years of dating I learned alot... escpecially that being a mess comes witht he name. You see whenever you spell out the Mims name you  get "Am I a mess?" and the answer is always YES!</P>
+    </div>
+  </div>
+  <body>
+</html>
